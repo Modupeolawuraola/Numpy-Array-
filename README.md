@@ -1,2 +1,2 @@
-# Numpy-Array-
-Creating NumPy array in python 
+# Numpy-Array-Pandas
+Creating NumPy-array, pandas in python 
